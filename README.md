@@ -1,2 +1,2 @@
 # Portfolio
-My projects of data analyst
+Мои проекты аналитика данных
