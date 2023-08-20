@@ -1,6 +1,7 @@
 # Телеком - определение неэффективности операторов колл-центров
 [html](https://github.com/Eldarlakec/Portfolio/blob/main/Проект%2013/Телеком%20-%20определение%20неэффективности%20операторов%20колл-центров.html)  
 [ipynb](https://github.com/Eldarlakec/Portfolio/blob/main/Проект%2013/Телеком%20-%20определение%20неэффективности%20операторов%20колл-центров.ipynb)  
+[ссылка на полную тетрадку](https://cloud.mail.ru/public/gcmM/3JtVFHvbx)  
 [скрин дашборда](https://github.com/Eldarlakec/Portfolio/blob/main/Проект%2012/Дашборд.jpg)  
 [ссылка на дашборд в Tableau Public](https://public.tableau.com/views/_16894196034480/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)  
 [презентация "Телеком - определение неэффективности операторов колл-центров"](https://github.com/Eldarlakec/Portfolio/blob/main/Проект%2013/Телеком%20-%20определение%20неэффективности%20операторов%20колл-центров.pdf)
